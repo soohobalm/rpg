@@ -1,0 +1,48 @@
+﻿  Battle.cpp
+C:\C\rpg4\Battle.cpp(44,68): warning C4003: 함수 같은 매크로 호출 'max'에 대해 인수가 부족합니다.
+C:\C\rpg4\Battle.cpp(44,68): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\C\rpg4\Battle.cpp(44,30): error C2144: 구문 오류: unknown-type'은(는) ')' 다음에 와야 합니다.
+C:\C\rpg4\Battle.cpp(44,30): error C2144: 구문 오류: unknown-type'은(는) ';' 다음에 와야 합니다.
+C:\C\rpg4\Battle.cpp(44,68): error C2059: 구문 오류: ')'
+C:\C\rpg4\Battle.cpp(44,80): error C2059: 구문 오류: ')'
+C:\C\rpg4\Battle.cpp(52,60): warning C4003: 함수 같은 매크로 호출 'max'에 대해 인수가 부족합니다.
+C:\C\rpg4\Battle.cpp(52,60): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\C\rpg4\Battle.cpp(52,22): error C2144: 구문 오류: unknown-type'은(는) ')' 다음에 와야 합니다.
+C:\C\rpg4\Battle.cpp(52,22): error C2144: 구문 오류: unknown-type'은(는) ';' 다음에 와야 합니다.
+C:\C\rpg4\Battle.cpp(52,60): error C2059: 구문 오류: ')'
+C:\C\rpg4\Battle.cpp(52,72): error C2059: 구문 오류: ')'
+  Character.cpp
+  Dungeon.cpp
+  Interface.cpp
+  main.cpp
+C:\C\rpg4\main.cpp(26,15): error C2236: 예기치 않은 토큰 'struct'입니다. ';'이 없습니다.
+C:\C\rpg4\main.cpp(26,24): error C2332: 'struct': 태그 이름이 없습니다.
+C:\C\rpg4\main.cpp(26,26): error C2040: 'dungeon': 'main::<unnamed-type-dungeon> &'의 간접 참조 수준이 'Dungeon'과(와) 다릅니다.
+C:\C\rpg4\main.cpp(33,18): error C2332: 'struct': 태그 이름이 없습니다.
+C:\C\rpg4\main.cpp(33,18): error C2059: 구문 오류: '.'
+C:\C\rpg4\main.cpp(84,34): error C2332: 'struct': 태그 이름이 없습니다.
+C:\C\rpg4\main.cpp(84,34): error C2059: 구문 오류: '.'
+  Monster.cpp
+  Player.cpp
+C:\C\rpg4\Player.cpp(28,30): error C3867: 'Player::attack': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+C:\C\rpg4\Player.cpp(28,37): error C2296: '-': 왼쪽 피연산자의 유형이 'int (__cdecl Player::* )(Character &)'이므로 유효하지 않습니다.
+C:\C\rpg4\Player.cpp(28,23): error C2672: 'std::max': 일치하는 오버로드된 함수가 없습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(85,26):
+  '_Ty std::max(std::initializer_list<_Elem>)'일 수 있습니다.
+  	C:\C\rpg4\Player.cpp(28,23):
+  	'_Ty std::max(std::initializer_list<_Elem>)': 'int'에서 'std::initializer_list<_Elem>'에 대한 템플릿 인수를 추론할 수 없습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(82,26):
+  또는       '_Ty std::max(std::initializer_list<_Elem>,_Pr)'
+  	C:\C\rpg4\Player.cpp(28,23):
+  	'_Ty std::max(std::initializer_list<_Elem>,_Pr)': 2개의 인수가 필요합니다. 1개가 제공되었습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(75,6):
+  또는       'const _Ty &std::max(const _Ty &,const _Ty &) noexcept(<expr>)'
+  	C:\C\rpg4\Player.cpp(28,23):
+  	'const _Ty &std::max(const _Ty &,const _Ty &) noexcept(<expr>)': 2개의 인수가 필요합니다. 1개가 제공되었습니다.
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(65,33):
+  또는       'const _Ty &std::max(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)'
+  	C:\C\rpg4\Player.cpp(28,23):
+  	'const _Ty &std::max(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)': 3개의 인수가 필요합니다. 1개가 제공되었습니다.
+  
+C:\C\rpg4\Player.cpp(53,12): error C2659: '+=': 함수를 왼쪽 피연산자로 사용했습니다.
+  코드를 생성하고 있습니다...

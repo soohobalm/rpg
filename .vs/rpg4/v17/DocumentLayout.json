@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C\\rpg4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81F7A009-A1E4-4D91-B226-ABB0417E12C1}|rpg4.vcxproj|C:\\C\\rpg4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81F7A009-A1E4-4D91-B226-ABB0417E12C1}|rpg4.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F7A009-A1E4-4D91-B226-ABB0417E12C1}|rpg4.vcxproj|C:\\C\\rpg4\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81F7A009-A1E4-4D91-B226-ABB0417E12C1}|rpg4.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F7A009-A1E4-4D91-B226-ABB0417E12C1}|rpg4.vcxproj|C:\\C\\rpg4\\Battle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81F7A009-A1E4-4D91-B226-ABB0417E12C1}|rpg4.vcxproj|solutionrelative:Battle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F7A009-A1E4-4D91-B226-ABB0417E12C1}|rpg4.vcxproj|C:\\C\\rpg4\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81F7A009-A1E4-4D91-B226-ABB0417E12C1}|rpg4.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F7A009-A1E4-4D91-B226-ABB0417E12C1}|rpg4.vcxproj|C:\\C\\rpg4\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81F7A009-A1E4-4D91-B226-ABB0417E12C1}|rpg4.vcxproj|solutionrelative:Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F7A009-A1E4-4D91-B226-ABB0417E12C1}|rpg4.vcxproj|C:\\C\\rpg4\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81F7A009-A1E4-4D91-B226-ABB0417E12C1}|rpg4.vcxproj|solutionrelative:Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F7A009-A1E4-4D91-B226-ABB0417E12C1}|rpg4.vcxproj|C:\\C\\rpg4\\Interface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81F7A009-A1E4-4D91-B226-ABB0417E12C1}|rpg4.vcxproj|solutionrelative:Interface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F7A009-A1E4-4D91-B226-ABB0417E12C1}|rpg4.vcxproj|C:\\C\\rpg4\\Interface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81F7A009-A1E4-4D91-B226-ABB0417E12C1}|rpg4.vcxproj|solutionrelative:Interface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F7A009-A1E4-4D91-B226-ABB0417E12C1}|rpg4.vcxproj|C:\\C\\rpg4\\Dungeon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81F7A009-A1E4-4D91-B226-ABB0417E12C1}|rpg4.vcxproj|solutionrelative:Dungeon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F7A009-A1E4-4D91-B226-ABB0417E12C1}|rpg4.vcxproj|C:\\C\\rpg4\\Dungeon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81F7A009-A1E4-4D91-B226-ABB0417E12C1}|rpg4.vcxproj|solutionrelative:Dungeon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F7A009-A1E4-4D91-B226-ABB0417E12C1}|rpg4.vcxproj|C:\\C\\rpg4\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81F7A009-A1E4-4D91-B226-ABB0417E12C1}|rpg4.vcxproj|solutionrelative:Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F7A009-A1E4-4D91-B226-ABB0417E12C1}|rpg4.vcxproj|C:\\C\\rpg4\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81F7A009-A1E4-4D91-B226-ABB0417E12C1}|rpg4.vcxproj|solutionrelative:Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F7A009-A1E4-4D91-B226-ABB0417E12C1}|rpg4.vcxproj|C:\\C\\rpg4\\Battle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81F7A009-A1E4-4D91-B226-ABB0417E12C1}|rpg4.vcxproj|solutionrelative:Battle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\C\\rpg4\\Player.cpp",
+              "RelativeDocumentMoniker": "Player.cpp",
+              "ToolTip": "C:\\C\\rpg4\\Player.cpp",
+              "RelativeToolTip": "Player.cpp",
+              "ViewState": "AQIAACAAAAAAAAAAAAAYwEUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T12:54:06.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\C\\rpg4\\Player.h",
+              "RelativeDocumentMoniker": "Player.h",
+              "ToolTip": "C:\\C\\rpg4\\Player.h",
+              "RelativeToolTip": "Player.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-11T12:53:47.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Monster.h",
+              "DocumentMoniker": "C:\\C\\rpg4\\Monster.h",
+              "RelativeDocumentMoniker": "Monster.h",
+              "ToolTip": "C:\\C\\rpg4\\Monster.h",
+              "RelativeToolTip": "Monster.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-11T12:53:28.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Interface.cpp",
+              "DocumentMoniker": "C:\\C\\rpg4\\Interface.cpp",
+              "RelativeDocumentMoniker": "Interface.cpp",
+              "ToolTip": "C:\\C\\rpg4\\Interface.cpp",
+              "RelativeToolTip": "Interface.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T12:53:04.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Interface.h",
+              "DocumentMoniker": "C:\\C\\rpg4\\Interface.h",
+              "RelativeDocumentMoniker": "Interface.h",
+              "ToolTip": "C:\\C\\rpg4\\Interface.h",
+              "RelativeToolTip": "Interface.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-11T12:52:48.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dungeon.h",
+              "DocumentMoniker": "C:\\C\\rpg4\\Dungeon.h",
+              "RelativeDocumentMoniker": "Dungeon.h",
+              "ToolTip": "C:\\C\\rpg4\\Dungeon.h",
+              "RelativeToolTip": "Dungeon.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-11T12:52:19.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Character.cpp",
+              "DocumentMoniker": "C:\\C\\rpg4\\Character.cpp",
+              "RelativeDocumentMoniker": "Character.cpp",
+              "ToolTip": "C:\\C\\rpg4\\Character.cpp",
+              "RelativeToolTip": "Character.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T12:52:04.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Character.h",
+              "DocumentMoniker": "C:\\C\\rpg4\\Character.h",
+              "RelativeDocumentMoniker": "Character.h",
+              "ToolTip": "C:\\C\\rpg4\\Character.h",
+              "RelativeToolTip": "Character.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-11T12:51:48.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Battle.cpp",
+              "DocumentMoniker": "C:\\C\\rpg4\\Battle.cpp",
+              "RelativeDocumentMoniker": "Battle.cpp",
+              "ToolTip": "C:\\C\\rpg4\\Battle.cpp",
+              "RelativeToolTip": "Battle.cpp",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T12:51:34.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dungeon.cpp",
+              "DocumentMoniker": "C:\\C\\rpg4\\Dungeon.cpp",
+              "RelativeDocumentMoniker": "Dungeon.cpp",
+              "ToolTip": "C:\\C\\rpg4\\Dungeon.cpp",
+              "RelativeToolTip": "Dungeon.cpp",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAYwM8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T12:49:13.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\C\\rpg4\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\C\\rpg4\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAYwGoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T12:48:50.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Battle.h",
+              "DocumentMoniker": "C:\\C\\rpg4\\Battle.h",
+              "RelativeDocumentMoniker": "Battle.h",
+              "ToolTip": "C:\\C\\rpg4\\Battle.h",
+              "RelativeToolTip": "Battle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-11T12:51:18.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Monster.cpp",
+              "DocumentMoniker": "C:\\C\\rpg4\\Monster.cpp",
+              "RelativeDocumentMoniker": "Monster.cpp",
+              "ToolTip": "C:\\C\\rpg4\\Monster.cpp",
+              "RelativeToolTip": "Monster.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T12:48:58.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
